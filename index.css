@@ -1,0 +1,10 @@
+* {
+    font-family: 'Orbitron', sans-serif;
+}
+
+button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
